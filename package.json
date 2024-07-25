@@ -1,0 +1,26 @@
+{
+  "name": "primeiro-node",
+  "version": "1.0.0",
+  "description": "testDescription",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipe03freitas/primeiro-node.git"
+  },
+  "keywords": [
+    "keywordsTest"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipe03freitas/primeiro-node/issues"
+  },
+  "homepage": "https://github.com/filipe03freitas/primeiro-node#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
